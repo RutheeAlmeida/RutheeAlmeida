@@ -1,4 +1,4 @@
-### Hello World!
+## Hello World!
 
 Eu sou a Ruthe, estudante de Desenvolvimento de Sistemas👋
 
@@ -10,12 +10,7 @@ Eu sou a Ruthe, estudante de Desenvolvimento de Sistemas👋
 [![Blog](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)]()
 
 
-##
-
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
- </div>
-
- ##
+ ## Contact
  
 <div><a href="https://instagram.com/ruuthee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
