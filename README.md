@@ -1,6 +1,6 @@
 ## Hello World!
 
-Eu sou a Ruthe, estudante de Desenvolvimento de Sistemas👋
+Eu sou a Ruthe, estudante de Técnico em Desenvolvimento de Sistemas👋
 
 ## Tech 
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
